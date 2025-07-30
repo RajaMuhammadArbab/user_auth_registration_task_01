@@ -1,0 +1,16 @@
+<h2>Register</h2>
+<form method="post">
+
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type="submit">Register</button>
+</form>
+<p>Already Have An Account</p><a href="{% url 'login'%}">Login</a></p>
+
+{% if messages %}
+  <ul style="color:green;">
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
