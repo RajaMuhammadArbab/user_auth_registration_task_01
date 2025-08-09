@@ -87,3 +87,11 @@ user_auth_registration/
 
 ---
 
+
+<img width="800" height="937" alt="1" src="https://github.com/user-attachments/assets/e6f3daee-8f95-4740-ac1f-505bec0871ef" />
+
+
+
+
+
+
