@@ -87,8 +87,12 @@ user_auth_registration/
 
 ---
 
+## Projects Demo 
 
 <img width="800" height="937" alt="1" src="https://github.com/user-attachments/assets/e6f3daee-8f95-4740-ac1f-505bec0871ef" />
+<img width="1913" height="450" alt="2" src="https://github.com/user-attachments/assets/a1bf47b5-b2f8-4f7c-8ce8-1a6747eb7098" />
+<img width="615" height="496" alt="3" src="https://github.com/user-attachments/assets/94cb80b5-2d77-48fb-85b8-e28f74f9586d" />
+
 
 
 
